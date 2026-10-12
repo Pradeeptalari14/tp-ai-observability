@@ -1,3 +1,6 @@
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
+
 # AI Observability & Trace Studio
 
 This repository contains the target configuration and SRE runtime files compiled by the **AI Observability & Trace Studio** dashboard module.
@@ -31,3 +34,6 @@ Deploy trace instrumentation meshes. Generate Langfuse backend docker-compose st
 ## 🔐 Security & Best Practices
 * **Secret Isolation**: Use organization-level secrets (or SSM parameter hooks) rather than hardcoded environment variables inside files.
 * **Pull Request Lifecycles**: Protect default branch merges with validation checks before merging code changes.
+
+---
+*Synchronized with [AI Observability & Trace Studio Studio](https://pradeeptalari.me/tools/ai-observability/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
